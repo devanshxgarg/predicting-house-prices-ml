@@ -54,4 +54,3 @@ The Gradient Boosting Machine model achieved stronger predictive performance tha
 A detailed research paper accompanying this project is available on ResearchGate.
 
 **DOI:** 10.13140/RG.2.2.23088.11526
-**ResearchGate:** https://www.researchgate.net/publication/405355484_A_Comparison_of_Random_Forest_and_Gradient_Boosting_Machines_in_Predicting_House_Prices
